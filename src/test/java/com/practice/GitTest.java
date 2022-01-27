@@ -11,6 +11,7 @@ public class GitTest {
 		System.out.println("insde 1st git ");
 		
 		System.out.println("tring to get conflict");
+		System.out.println("pdates without pulling");
 	}
 	
 
