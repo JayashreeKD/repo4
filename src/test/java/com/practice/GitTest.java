@@ -9,6 +9,8 @@ public class GitTest {
 	public void gitTest()
 	{
 		System.out.println("insde 1st git ");
+		
+		System.out.println("tring to get conflict");
 	}
 	
 
